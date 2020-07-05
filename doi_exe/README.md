@@ -2,7 +2,7 @@
 
 [DOI](https://github.com/labcif/DOI/) is an application that searches for images in a provided folder and detects objects in the images.
 
-This is the executable version of DOI, built using the [Python version](https://github.com/labcif/DOI/doi/).
+This is the executable version of DOI, built using the [Python version](../doi).
 
 ## Installation
 
@@ -14,7 +14,7 @@ This is the executable version of DOI, built using the [Python version](https://
 
 ## Usage
 
-Check the documentation in the [Python version](https://github.com/labcif/DOI/doi/). The commands and options are the same, but instead of:
+Check the documentation in the [Python version](../doi). The commands and options are the same, but instead of:
 
 `python doi.py [...]`
 

@@ -3,7 +3,7 @@
 [DOI](https://github.com/labcif/DOI/) is an application that searches for images in a provided folder and detects objects in the images.
 
 
-This is a report module for Autopsy. It generates a HTML report with the results of the [DOI Data source ingest module](https://github.com/labcif/DOI/doi_autopsy_modules/doi_ingest).
+This is a data source ingest module for Autopsy that uses DOI to detect objects in images.
 
 
 ## Installation

@@ -14,8 +14,8 @@ It only supports Windows (for now).
 
 This application can be used as a stand alone application. There are two versions:
 
-* Python version: check it out [here](https://github.com/labcif/DOI/doi/)
-* Executable version: check it out [here](https://github.com/labcif/DOI/doi_exe/)
+* Python version: check it out [here](./doi)
+* Executable version: check it out [here]./doi_exe)
 
 The executable version does not need instalation.
 
@@ -23,8 +23,8 @@ The executable version does not need instalation.
 
 In order to integrate **DOI** with [Autopsy](https://www.autopsy.com/), there are two modules:
 
- * [DOI Data source ingest module](https://github.com/labcif/DOI/doi_autopsy_modules/doi_ingest): uses the DOI stand alone application in order to detect objects in images
- * [DOI Report module](https://github.com/labcif/DOI/doi_autopsy_modules/doi_ingest): exports a HTML report with the results of the ingest module
+ * [DOI Data source ingest module](./doi_autopsy_modules/doi_ingest): uses the DOI stand alone application in order to detect objects in images
+ * [DOI Report module](./doi_autopsy_modules/doi_ingest): exports a HTML report with the results of the ingest module
 
 ## Supported image file formats
 
