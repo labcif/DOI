@@ -15,7 +15,7 @@ It only supports Windows (for now).
 This application can be used as a stand alone application. There are two versions:
 
 * Python version: check it out [here](./doi)
-* Executable version: check it out [here]./doi_exe)
+* Executable version: check it out [here](./doi_exe)
 
 The executable version does not need instalation.
 

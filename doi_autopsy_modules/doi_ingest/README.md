@@ -1,10 +1,8 @@
-# DOI Report Module for Autopsy
+# DOI Ingest Module for Autopsy
 
 [DOI](https://github.com/labcif/DOI/) is an application that searches for images in a provided folder and detects objects in the images.
 
-
 This is a data source ingest module for Autopsy that uses DOI to detect objects in images.
-
 
 ## Installation
 

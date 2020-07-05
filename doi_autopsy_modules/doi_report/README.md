@@ -4,7 +4,6 @@
 
 This is a report module for Autopsy. It generates a HTML report with the results of the [DOI Data source ingest module](../doi_ingest).
 
-
 ## Installation
 
 * Copy this folder to the Python modules folder
