@@ -1,0 +1,6 @@
+{
+	"weights_path": "config/weights/yolov3-openimages.weights",
+	"config_path": "config/cfg/yolov3-openimages.cfg",
+	"meta_path": "config/data/openimages.data",
+	"classes_path": "config/data/openimages.names"
+}

@@ -1,0 +1,6 @@
+{
+	"weights_path": "config/weights/yolov3-tiny.weights",
+	"config_path": "config/cfg/yolov3-tiny.cfg",
+	"meta_path": "config/data/coco.data",
+	"classes_path": "config/data/coco.names"
+}

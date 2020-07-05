@@ -1,0 +1,8 @@
+classes= 80
+train  = config/data/coco/trainvalno5k.txt
+valid  = config/data/coco_testdev
+#valid = config/data/coco_val_5k.list
+names = config/data/coco.names
+backup = backup/
+eval=coco
+
