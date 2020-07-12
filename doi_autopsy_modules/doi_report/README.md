@@ -6,7 +6,7 @@ This is a report module for Autopsy. It generates a HTML report with the results
 
 ## Installation
 
-* Copy this folder to the Python modules folder
+* Copy this folder to the Autospy folder for Python modules (open this folder using "Tools" -> "Python Plugins", in Autopsy)
 
 ## Usage
 
