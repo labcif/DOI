@@ -67,7 +67,7 @@ def insert_suffix_html():
                         {
                             "targets" : [4],
                             searchPanes:{
-                                threshold: 0.99
+                                show: true
                             },
                         }
                     ]

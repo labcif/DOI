@@ -2,7 +2,8 @@
 *.weights
 .vs
 .vscode
-COCO val2017/
+results/
+temp/
 
 
 # Byte-compiled / optimized / DLL files

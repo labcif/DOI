@@ -74,6 +74,9 @@ class DoiReportModule(GeneralReportModuleAdapter):
 
         for art_item in art_list_images:
             item = art_item.getAttribute(att_result).getDisplayString()
+            if not item:
+                # DOI could not create image with results. Therefore, ignore this artifact.
+                continue
             item_class = art_item.getAttribute(class_result).getDisplayString()
             item_confidence = art_item.getAttribute(confidence_result).getDisplayString()
             item_result_file = file_writer.copy_to_results_folder(baseReportDir, item)
